@@ -54,8 +54,8 @@ button:hover {
   font-size: 18px;
   color: #2c3e50;
   margin-top: 20px;
-  opacity: 0; /* Initially hidden */
-  transition: opacity 0.5s ease-in-out; /* Fade-in effect */
+  opacity: 0; 
+  transition: opacity 0.5s ease-in-out; 
 }
 
 #result.show {
